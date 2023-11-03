@@ -103,7 +103,7 @@ const view = {
 
 const model = {
   revealedCards: [],
-  score: 250,
+  score: 0,
   triedTimes: 0,
 
   isRevealedCardsMatched() {
